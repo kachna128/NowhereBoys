@@ -28,7 +28,7 @@ h3{
 }
 
 .backgr{
-    background-color:rgba(167, 41, 41, 0.801) ;
+    background-color:rgba(167, 41, 41, 0.274) ;
     height: auto;
     width: 80%;
     border-radius: 20px;
@@ -37,7 +37,7 @@ h3{
     border: 4px solid rgb(128, 32, 32)
 }
 .inf{
-    background-color:rgba(167, 41, 41, 0) ;
+    background-color:rgba(150, 112, 112, 0) ;
     height: auto;
     width: 80%;
     border-radius: 20px;
