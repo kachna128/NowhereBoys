@@ -22,9 +22,10 @@ a{
 }
 h1{
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 50px;
+    font-size: 400%;
 }
 h2{
+    font-size: 200%;
     font-family:Arial, Helvetica, sans-serif;
 }
 h3{
@@ -52,7 +53,7 @@ h3{
 }
 .back{
     background-color: rgb(128, 32, 32);
-    width: 80px;
+    width: auto;
     border-radius: 8px;
     display: block;
     margin-left: 5%;
